@@ -1,4 +1,4 @@
-<img align="left" src="https://raw.github.com/wiki/zxing/zxing/zxing-logo.png"/>
+<img align="right" src="https://raw.github.com/wiki/zxing/zxing/zxing-logo.png"/>
 
 ## Project in Maintenance Mode Only
 
